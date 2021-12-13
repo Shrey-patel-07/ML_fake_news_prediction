@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrey-patel
+- 👋 Hi, I’m @Shrey-patel-07
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
